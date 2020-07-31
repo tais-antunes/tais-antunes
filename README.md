@@ -1,6 +1,11 @@
-### Hi there:star:
-
-
+### Hi :star:
+``` 
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World!!!");
+  }
+} 
+```
 <!--
 **tais-antunes/tais-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
