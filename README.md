@@ -8,6 +8,9 @@ public class Main {
   }
 } 
 ```
+
+- :mortar_board: Acadêmica em Análise e Desenvolvimento de Sistemas
+- :computer: Iniciante na área como Desenvolvedora
 <!--
 **tais-antunes/tais-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
