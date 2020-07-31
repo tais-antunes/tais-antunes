@@ -1,4 +1,4 @@
-## Hi peoples :wave:
+# Hi peoples :wave:
 
 Bem-vindos ao meu Perfil :smile:
 
