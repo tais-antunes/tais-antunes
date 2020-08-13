@@ -22,9 +22,9 @@ public class Main {
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tais-antunes&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tais-antunes&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tais-antunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tais-antunes&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **tais-antunes/tais-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
