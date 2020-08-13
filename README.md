@@ -2,11 +2,7 @@
 
 Bem-vindos ao meu Perfil :smile:
 
----
-
 #### Programmer Trainee :heart:
-
----
 
 ```
 public class Main {
@@ -15,6 +11,8 @@ public class Main {
   }
 } 
 ```
+
+---
 
 - :mortar_board: Acadêmica em Análise e Desenvolvimento de Sistemas
 - :computer: Iniciante na área como Desenvolvedora
