@@ -17,7 +17,7 @@ public class Main {
 - :rocket: Em busca de novos conhecimento
 - :star: Brasil, RS
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tais-antunes&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tais Antunes&show_icons=true&theme=radical)
 
 
 <!--
