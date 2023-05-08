@@ -1,8 +1,5 @@
-# Hi peoples :wave:
 
-Bem-vindos ao meu Perfil :smile:
-
-#### Programmer Trainee :heart:
+#### Quality Analyst
 
 ```
 public class Main {
