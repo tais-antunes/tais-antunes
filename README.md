@@ -13,7 +13,7 @@ public class Main {
 ### Apresentação
 - :mortar_board: Acadêmica em Análise e Desenvolvimento de Sistemas
 - :computer: QA Analyst
-- :heart: Descobrindo um novo mundo atraves da tecnologia
+- :rocket: Descobrindo um novo mundo atraves da tecnologia
 - :rocket: Em busca de novos conhecimento e evolução
 - :star: Brasil, RS
 
